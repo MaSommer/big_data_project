@@ -15,11 +15,9 @@ public class Main {
 		JavaRDD<String> textLoadRDD = ctx.textFile("/Users/MaSommer/Google Drive/Skole/4.Year/Vaar/BigData/HADOOP_HOME.3/spark-2.1.0-bin-hadoop2.7/README.md");
 		
 		System.out.println(textLoadRDD.count());
-		
-		System.out.println("hei");
+
 		System.out.println();
-		
-//		cock
+	
 	}
 
 }
