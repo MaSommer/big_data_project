@@ -16,6 +16,8 @@ public class Main {
 		
 		System.out.println(textLoadRDD.count());
 		
+		System.out.println("hei");
+		
 	}
 
 }
