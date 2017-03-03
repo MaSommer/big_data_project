@@ -17,11 +17,7 @@ public class Main {
 		System.out.println(textLoadRDD.count());
 
 		System.out.println();
-		
-		System.out.println("Hei");
-		
-		
-//		cock
+	
 	}
 
 }
